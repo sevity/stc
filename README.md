@@ -7,6 +7,6 @@ just call SetPixel and everything will work.
 
 ## screenshot
 ![Screenshot](Untitled-1.png)
-<img src="Untitled-1.png" width="400" height="790">
+<img src="Untitled-1.png" width="100">
 
 
