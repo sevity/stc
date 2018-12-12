@@ -6,4 +6,4 @@ as compared to SDL, you're free from coding window, renderer things.
 just call SetPixel and everything will work.
 
 ## screenshot
-![Screenshot](Untitled-1.png){:width="400px"}
+![Screenshot](Untitled-1.png?s=100)
